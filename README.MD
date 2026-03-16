@@ -1,6 +1,7 @@
-# StarSector GitHub repo
+# StarSector GitHub repo (CC4 2026)
 
-## 03.16 Delete all old saves Reinit repo
+## 03.16 Delete all old saves 
+- Reinit repo
 
 # StarSector098a GitHub repo
 
@@ -57,4 +58,3 @@
   - Save mods settings Load last save
   - Add Missinfg Mods
   - Impossible. Need to play with Nex mod.
-# StarSector GitHub repo (CC4 2026)
