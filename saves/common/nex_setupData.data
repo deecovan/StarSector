@@ -1,0 +1,31 @@
+{
+    "backgroundId": "nex_none",
+    "factions": {
+        "Bhilai": true,
+        "Eridani": true,
+        "HMI": true,
+        "KoC": true,
+        "MVS": true,
+        "MaybeGoogle": true,
+        "brighton": true,
+        "dpl_phase_lab": true,
+        "draco": true,
+        "fang": true,
+        "hegemony": true,
+        "independent": true,
+        "knights_of_selkie": true,
+        "luddic_church": true,
+        "luddic_path": true,
+        "orks": true,
+        "persean": true,
+        "pirates": true,
+        "roider": true,
+        "sindrian_diktat": true,
+        "tritachyon": true
+    },
+    "numPlanets": 49,
+    "numStations": 17,
+    "numSystems": 22,
+    "respawnFactions": true,
+    "selectedFactionForBackground": "player"
+}

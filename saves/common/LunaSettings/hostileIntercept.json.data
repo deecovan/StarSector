@@ -1,0 +1,13 @@
+{
+   "hostileIntercept_autopause": "Intercept Or Hostile",
+   "hostileIntercept_autopauseAlarm": true,
+   "hostileIntercept_autopauseCheat": true,
+   "hostileIntercept_autopauseSnoozedTime": "10.0",
+   "hostileIntercept_hostileRings": true,
+   "hostileIntercept_interceptAlarm": true,
+   "hostileIntercept_interceptRings": true,
+   "hostileIntercept_jumpPauseCheat": true,
+   "hostileIntercept_jumpPointAlarm": true,
+   "hostileIntercept_jumpPointPause": "Intercept Or Hostile",
+   "hostileIntercept_ringCheat": true
+}

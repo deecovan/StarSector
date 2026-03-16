@@ -1,0 +1,7 @@
+{
+   "IBBAlwaysRecover": true,
+   "arcadeDifficultyScalar": 1,
+   "arcadePlayerShip": "swp_arcade_superhyperion_str",
+   "arcadeStartingDifficulty": 1,
+   "famousBounties": true
+}
