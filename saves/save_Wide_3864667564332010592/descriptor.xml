@@ -1,0 +1,3510 @@
+<?xml version="1.0" ?>
+<SaveGameData z="1">
+<portraitName>graphics/portraits/PFE_Ind_M_02.png</portraitName>
+<characterName>Wide</characterName>
+<saveFileVersion>0.6</saveFileVersion>
+<gameVersion>0.98a-RC8</gameVersion>
+<characterLevel>1</characterLevel>
+<compressed>false</compressed>
+<isIronMode>false</isIronMode>
+<difficulty>normal</difficulty>
+<gameDate z="2">
+<secondsPerDay>10.0</secondsPerDay>
+<timestamp>-55666473929000</timestamp>
+</gameDate>
+<saveDate z="3">2026-03-16 07:50:38.434 UTC</saveDate>
+<slotCreationTimestamp>1773647394581</slotCreationTimestamp>
+<allModsEverEnabled z="4">
+<EnabledModData z="5">
+<spec z="6">
+<id>pantera_ANewLevel30R</id>
+<desc>Raises maximum player level to 30 with a faster rate of levelling, but close-to-vanilla storypoint gain. Helps to achieve a new level, of confidence and power! Demanding plea for unity between us all...</desc>
+<name>A New Level of Confidence</name>
+<gameVersion z="7">
+<major>0.98</major>
+<minor>7</minor>
+<patch></patch>
+<string>0.98a-RC7</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="8">
+<major>30 3</major>
+<minor>3 F</minor>
+<patch>st</patch>
+<string>30 3.3 Fast</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Panteradactyl</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\A New Level of Confidence - 30 - Rapid</path>
+<dirName>A New Level of Confidence - 30 - Rapid</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<fullOverrides z="9"></fullOverrides>
+<jars z="10"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="11"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="12">
+<spec z="13">
+<id>AI-Retrofits</id>
+<desc>Adds some hullmods, abilitys, and colony facilities to replace the humons in your fleet/faction</desc>
+<name>AI-Retrofit</name>
+<gameVersion z="14">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="15">
+<major>0.10</major>
+<minor>1</minor>
+<patch></patch>
+<string>0.10.1</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Alaricdragon</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\AIRetrofits</path>
+<dirName>AIRetrofits</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.AI_RetrofitsStartup</modPluginClassName>
+<fullOverrides z="16"></fullOverrides>
+<jars z="17">
+<st>jars/AIretrofit.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="18">
+<ModDependency z="19">
+<id>aaacrew_replacer</id>
+<name>crew_replacer</name>
+<version z="20">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="21">
+<id>aaamarketRetrofits</id>
+<name>Market Retrofits</name>
+<version z="22">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="23">
+<spec z="24">
+<id>ShoeyAshesOfOhm</id>
+<desc>[Redacted] focused expansion for Ashes of the Domain.</desc>
+<name>AoTD - Ashes of Ohm</name>
+<gameVersion z="25">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="26">
+<major>0</major>
+<minor>7</minor>
+<patch>0</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Shoey</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Ashes of Ohm</path>
+<dirName>Ashes of Ohm</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>Shoey.AshesOfOhm.MainPlugin</modPluginClassName>
+<fullOverrides z="27"></fullOverrides>
+<jars z="28">
+<st>jars/AshesOfOhm.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="29">
+<ModDependency z="30">
+<id>aotd_vok</id>
+<name>AoTD- Vaults of Knowledge </name>
+<version z="31">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="32">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="33">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="34">
+<spec z="35">
+<id>Cryo_but_better</id>
+<desc>Ashes of The Domain -Dreams of Past: Mod that tweaks Cryosleeper mechanics, independent from other AoTD modules</desc>
+<name>AoTD - Dreams of Past</name>
+<gameVersion z="36">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="37">
+<major>3</major>
+<minor>0</minor>
+<patch>5</patch>
+<string>3.0.5</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Kaysaar</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Ashes of  The Domain - Dreams of Past</path>
+<dirName>Ashes of  The Domain - Dreams of Past</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.plugins.AodCryosleeperPLugin</modPluginClassName>
+<fullOverrides z="38"></fullOverrides>
+<jars z="39">
+<st>jars/Cryos.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="40">
+<ModDependency z="41">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="42">
+<major>3</major>
+<minor>0</minor>
+<patch></patch>
+<string>3.0</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="43">
+<spec z="44">
+<id>aotd_qol</id>
+<desc>Overhaul of commision mechanic.</desc>
+<name>AoTD - Question of Loyalty</name>
+<gameVersion z="45">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="46">
+<major>2</major>
+<minor>0</minor>
+<patch>8</patch>
+<string>2.0.8</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Kaysaar</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Ashes of The Domain - Question Of Loyalty</path>
+<dirName>Ashes of The Domain - Question Of Loyalty</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>kaysaar.aotd_question_of_loyalty.data.plugins.AotDQoLPlugin</modPluginClassName>
+<fullOverrides z="47"></fullOverrides>
+<jars z="48">
+<st>jars/Qol.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="49">
+<ModDependency z="50">
+<id>ashlib</id>
+<name>Ashlib</name>
+<version z="51">
+<major>2</major>
+<minor>1</minor>
+<patch>2</patch>
+<string>2.1.2</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="52">
+<spec z="53">
+<id>aotd_sop</id>
+<desc>Ashes of the Domain-Seats of Power: Adds Faction-wide Policies, Event Timeline, Faction Capital mechanics and much more! Independent from other AoTD modules</desc>
+<name>AoTD - Seats of Power</name>
+<gameVersion z="54">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="55">
+<major>3</major>
+<minor>0</minor>
+<patch>8</patch>
+<string>3.0.8</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Kaysaar</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Ashes of  The Domain -Seats Of Power</path>
+<dirName>Ashes of  The Domain -Seats Of Power</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.plugins.AoDCapitalsModPlugin</modPluginClassName>
+<fullOverrides z="56"></fullOverrides>
+<jars z="57">
+<st>jars/AodCapitals.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="58">
+<ModDependency z="59">
+<id>ashlib</id>
+<name>Ashlib</name>
+<version z="60">
+<major>2</major>
+<minor>1</minor>
+<patch>2</patch>
+<string>2.1.2</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="61">
+<id>bmo</id>
+<name>Building Menu Overhaul</name>
+<version z="62">
+<major>2</major>
+<minor>0</minor>
+<patch>3</patch>
+<string>2.0.3</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="63">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="64">
+<major>3</major>
+<minor>0</minor>
+<patch></patch>
+<string>3.0</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="65">
+<spec z="66">
+<id>aotd_vok</id>
+<desc>Ashes of the Domain - Vaults of Knowledge: Adds research mechanics to game, independent from other AoTD modules </desc>
+<name>AoTD- Vaults of Knowledge</name>
+<gameVersion z="67">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="68">
+<major>4</major>
+<minor>2</minor>
+<patch>2</patch>
+<string>4.2.2</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Kaysaar</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Ashes of  The Domain- Vaults of Knowledge</path>
+<dirName>Ashes of  The Domain- Vaults of Knowledge</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.kaysaar.aotd.vok.plugins.AoTDVokModPlugin</modPluginClassName>
+<fullOverrides z="69"></fullOverrides>
+<jars z="70">
+<st>jars/Vok.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="71">
+<ModDependency z="72">
+<id>ashlib</id>
+<name>Ashlib</name>
+<version z="73">
+<major>2</major>
+<minor>1</minor>
+<patch>2</patch>
+<string>2.1.2</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="74">
+<id>bmo</id>
+<name>Building Menu Overhaul</name>
+<version z="75">
+<major>2</major>
+<minor>0</minor>
+<patch>3</patch>
+<string>2.0.3</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="76">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="77">
+<major>3</major>
+<minor>0</minor>
+<patch></patch>
+<string>3.0</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="78">
+<spec z="79">
+<id>ashlib</id>
+<desc>Library containing functions mainly used by me: Kaysaar</desc>
+<name>Ashlib</name>
+<gameVersion z="80">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="81">
+<major>2</major>
+<minor>1</minor>
+<patch>2</patch>
+<string>2.1.2</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Kaysaar</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Ashlib_</path>
+<dirName>Ashlib_</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>ashlib.data.plugins.AshLibPlugin</modPluginClassName>
+<fullOverrides z="82"></fullOverrides>
+<jars z="83">
+<st>jars/ashlib.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="84">
+<ModDependency z="85">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="86">
+<major>3</major>
+<minor>0</minor>
+<patch></patch>
+<string>3.0</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="87">
+<spec z="88">
+<id>HMI_brighton</id>
+<desc>Originally apart of HMI, this mod brings a faction of desperate refugees eeking out an existence on the Rim, relying on scavenged Remnant and Derelict drones.</desc>
+<name>Brighton Federation</name>
+<gameVersion z="89">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="90">
+<major>0.0</major>
+<minor>4</minor>
+<patch></patch>
+<string>0.0.4a</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>King Alfonzo</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\HMI_brighton</path>
+<dirName>HMI_brighton</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.HMI_brightonmodPlugin</modPluginClassName>
+<fullOverrides z="91"></fullOverrides>
+<jars z="92">
+<st>jars/HMI_brighton.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="93">
+<ModDependency z="94">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="95">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="96">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="97">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="98">
+<spec z="99">
+<id>bmo</id>
+<desc>Mod that overhauls buildnig menu adding filters, searchbar etc etc.</desc>
+<name>Building Menu Overhaul</name>
+<gameVersion z="100">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="101">
+<major>2</major>
+<minor>0</minor>
+<patch>3</patch>
+<string>2.0.3</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Kaysaar</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Building Menu Overhaul</path>
+<dirName>Building Menu Overhaul</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>kaysaar.bmo.BmoModPlugin</modPluginClassName>
+<fullOverrides z="102"></fullOverrides>
+<jars z="103">
+<st>jars/bmo.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="104">
+<ModDependency z="105">
+<id>ashlib</id>
+<name>Ashlib</name>
+<version z="106">
+<major>2</major>
+<minor>1</minor>
+<patch>2</patch>
+<string>2.1.2</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="107">
+<spec z="108">
+<id>ORK</id>
+<desc>Low tech faction with ships, weapons, and a burning hatred for tritachyon. Maybe more! :)</desc>
+<name>Bultach Coalition</name>
+<gameVersion z="109">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="110">
+<major>1.1</major>
+<minor>7 rele</minor>
+<patch>se</patch>
+<string>1.1.7 release</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Pogre/Noof</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Bultach Coalition</path>
+<dirName>Bultach Coalition</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.ork_ModPlugin</modPluginClassName>
+<fullOverrides z="111"></fullOverrides>
+<jars z="112">
+<st>jars/ORKS.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="113">
+<ModDependency z="114">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="115">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="116">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="117">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="118">
+<id>shaderLib</id>
+<name>GraphicsLib</name>
+<version z="119">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="120">
+<spec z="121">
+<id>chickentechshop</id>
+<desc>Chicken Tech Shop is a mod for Starsector, that creates a special marketplace that sells loot items.</desc>
+<name>Chicken's Tech Shop</name>
+<gameVersion z="122">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="123">
+<major>0.1</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.1.5</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Chickenboy</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\ChickenTechShop-0.1.5</path>
+<dirName>ChickenTechShop-0.1.5</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>chickentechshop.ChickenTechShop</modPluginClassName>
+<fullOverrides z="124"></fullOverrides>
+<jars z="125">
+<st>chickentechshop.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="126"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="127">
+<spec z="128">
+<id>chatter</id>
+<desc>talky-man broke thog's tusk. TALKY-MAN BROKE THOG'S TUSK!!</desc>
+<name>Combat Chatter</name>
+<gameVersion z="129">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="130">
+<major>1</major>
+<minor>15</minor>
+<patch>1</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Histidine</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Combat Chatter</path>
+<dirName>Combat Chatter</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>org.histidine.chatter.scripts.ChatterModPlugin</modPluginClassName>
+<fullOverrides z="131"></fullOverrides>
+<jars z="132">
+<st>jars/CombatChatter.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="133">
+<ModDependency z="134">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="135">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="136">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="137">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="138">
+<spec z="139">
+<id>aaacrew_replacer</id>
+<desc>library for making new crew. and stuff</desc>
+<name>Crew Replacer</name>
+<gameVersion z="140">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="141">
+<major>0.7</major>
+<minor>6</minor>
+<patch></patch>
+<string>0.7.6</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Alaricdragon</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Crew_Replacer-master</path>
+<dirName>Crew_Replacer-master</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.crew_replacer_startup</modPluginClassName>
+<fullOverrides z="142"></fullOverrides>
+<jars z="143">
+<st>jars/crew_replacer.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="144"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="145">
+<spec z="146">
+<id>dmodservices</id>
+<desc>Adds D-MOD services, which lets your ships gain Damage Mods in a controlled environment.</desc>
+<name>D-MOD Services</name>
+<gameVersion z="147">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="148">
+<major>3</major>
+<minor>1</minor>
+<patch>0</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Tranquility</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\DMODServices-v3.1.0</path>
+<dirName>DMODServices-v3.1.0</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>org.tranquility.dmodservices.DMSModPlugin</modPluginClassName>
+<fullOverrides z="149"></fullOverrides>
+<jars z="150">
+<st>jars/DMODServices.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="151"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="152">
+<spec z="153">
+<id>demandIndicators</id>
+<desc>Adds indicators to the cargo areas showing which commodities have excess or shortages. Use LunaLib to edit the mod settings.</desc>
+<name>Demand Indicators</name>
+<gameVersion z="154">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="155">
+<major>1</major>
+<minor>0</minor>
+<patch>f</patch>
+<string>1.0.f</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>SirHartley</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Demand Indicators1.0.f</path>
+<dirName>Demand Indicators1.0.f</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>demandindicators.plugins.ModPlugin</modPluginClassName>
+<fullOverrides z="156"></fullOverrides>
+<jars z="157">
+<st>jars/demandindicators.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="158"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="159">
+<spec z="160">
+<id>DetailedCombatResults</id>
+<desc>Detailed Combat Results, open intel screen after combat ('E'), or press 'L' in the campaign map to bring up the analytics dialogue.</desc>
+<name>Detailed Combat Results</name>
+<gameVersion z="161">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="162">
+<major>5</major>
+<minor>4</minor>
+<patch>2</patch>
+<string>5.4.2</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Nick XR</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\DetailedCombatResults</path>
+<dirName>DetailedCombatResults</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>data.scripts.combatanalytics.DetailedCombatResultsModPlugin</modPluginClassName>
+<fullOverrides z="163">
+<st>data/weapons/proj/ioncannon_shot.proj</st>
+<st>data/weapons/proj/disintegrator_shot.proj</st>
+<st>data/weapons/proj/sabot_warhead2.proj</st>
+<st>data/weapons/proj/breach_srm.proj</st>
+</fullOverrides>
+<jars z="164">
+<st>jars/StarSectorDetailedCombatResults.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="165"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="166">
+<spec z="167">
+<id>dpl_phase_lab</id>
+<desc>A mod telling a story about the fate of a domain military scientific institute in the burning sector.</desc>
+<name>Domain Phase Lab</name>
+<gameVersion z="168">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="169">
+<major>1</major>
+<minor>7</minor>
+<patch>2</patch>
+<string>1.7.2</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Vladimir VV</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Domain Phase Lab</path>
+<dirName>Domain Phase Lab</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.dpl_phase_labModPlugin</modPluginClassName>
+<fullOverrides z="170"></fullOverrides>
+<jars z="171">
+<st>jars/dpl_phase_lab.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="172"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="173">
+<spec z="174">
+<id>Everybody loves KoC</id>
+<desc>Adds KoC to the game; Everyone loves the KoC.</desc>
+<name>Everybody loves KoC</name>
+<gameVersion z="175">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="176">
+<major>1</major>
+<minor>05</minor>
+<patch>49</patch>
+<string>1.05.49a</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Vikta</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\+Ko 1.05.49a</path>
+<dirName>+Ko 1.05.49a</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="177">
+<st>data/shipsystems/dynamic_stabilizer.system</st>
+<st>data/campaign/econ/arcadia.json</st>
+<st>data/campaign/econ/yma.json</st>
+</fullOverrides>
+<jars z="178"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="179"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="180">
+<spec z="181">
+<id>fleetsizebydp</id>
+<desc>Changes player's max fleet size to be determined by DP, rather than ship count.</desc>
+<name>Fleet Size By DP</name>
+<gameVersion z="182">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="183">
+<major>1</major>
+<minor>0</minor>
+<patch>3</patch>
+<string>1.0.3</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Chozo</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\FleetSizeByDP</path>
+<dirName>FleetSizeByDP</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>FleetSizeByDP.FleetSizeByDPPlugin</modPluginClassName>
+<fullOverrides z="184"></fullOverrides>
+<jars z="185">
+<st>FleetSizeByDP.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="186"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="187">
+<spec z="188">
+<id>sun_flux_reticle</id>
+<desc>Replaces the default cursor during combat with a reticle that displays flux level.</desc>
+<name>Flux Reticle</name>
+<gameVersion z="189">
+<major>0.98</major>
+<minor>7</minor>
+<patch></patch>
+<string>0.98a-RC7</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="190">
+<major>1</major>
+<minor>4</minor>
+<patch>0</patch>
+<string>1.4.0</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Sundog</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Flux Reticle</path>
+<dirName>Flux Reticle</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>flux_reticle.ModPlugin</modPluginClassName>
+<fullOverrides z="191"></fullOverrides>
+<jars z="192">
+<st>jars/FluxReticle.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="193"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="194">
+<spec z="195">
+<id>forge_production</id>
+<desc>Hullmods that allow ships to produce commodities with ability toggle.</desc>
+<name>Forge Production</name>
+<gameVersion z="196">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="197">
+<major>1</major>
+<minor>1</minor>
+<patch>12</patch>
+<string>1.1.12</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Ontheheavens &amp; Alaricdragon</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\ForgeProduction-master</path>
+<dirName>ForgeProduction-master</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>forgprod.ForgprodModPlugin</modPluginClassName>
+<fullOverrides z="198"></fullOverrides>
+<jars z="199">
+<st>jars/forge_production.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="200"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="201">
+<spec z="202">
+<id>guarantee-rare-items</id>
+<desc>Guarantee Rare Items</desc>
+<name>Guarantee Rare Items</name>
+<gameVersion z="203">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="204">
+<major>0</major>
+<minor>4</minor>
+<patch>0</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>pipai</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\GuaranteeRareItems</path>
+<dirName>GuaranteeRareItems</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>com.pipai.starsector.gri.GuaranteeRareItemsModPlugin</modPluginClassName>
+<fullOverrides z="205"></fullOverrides>
+<jars z="206">
+<st>jars/gri.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="207">
+<ModDependency z="208">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="209">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="210">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="211">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="212">
+<spec z="213">
+<id>HMI_SV</id>
+<desc>Originally apart of HMI, this mod brings two deranged pirate factions. Makes the south-west fringes of the Core a more dangerous place to be.</desc>
+<name>HMI Supervillains</name>
+<gameVersion z="214">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="215">
+<major>0.0</major>
+<minor>5d</minor>
+<patch></patch>
+<string>0.0.5d</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>King Alfonzo</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\HMI_Supervillains</path>
+<dirName>HMI_Supervillains</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.HMI_SV_modPlugin</modPluginClassName>
+<fullOverrides z="216"></fullOverrides>
+<jars z="217">
+<st>jars/HMI_Supervillains.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="218">
+<ModDependency z="219">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="220">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="221">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="222">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="223">
+<spec z="224">
+<id>HMI</id>
+<desc>A company created by an enterprising miner, this cut-throat organisation is out to exploit as much of the outer limits of the Sector as possible.</desc>
+<name>Hazard Mining Incorporated</name>
+<gameVersion z="225">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="226">
+<major>0.4</major>
+<minor>0e</minor>
+<patch></patch>
+<string>0.4.0e</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>King Alfonzo</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\HMI</path>
+<dirName>HMI</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.HMI_modPlugin</modPluginClassName>
+<fullOverrides z="227"></fullOverrides>
+<jars z="228">
+<st>jars/HMI.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="229">
+<ModDependency z="230">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="231">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="232">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="233">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="234">
+<spec z="235">
+<id>hte</id>
+<desc>Adds a number of high-tech ships and weapons.</desc>
+<name>High Tech Expansion</name>
+<gameVersion z="236">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="237">
+<major>2</major>
+<minor>0</minor>
+<patch>5</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>theDragn</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\HTE</path>
+<dirName>HTE</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>plugins.drgModPlugin</modPluginClassName>
+<fullOverrides z="238"></fullOverrides>
+<jars z="239">
+<st>jars/HTE.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="240">
+<ModDependency z="241">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="242">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="243">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="244">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="245">
+<spec z="246">
+<id>hostileIntercept</id>
+<desc>Highlights hostile fleets and fleets trying to intercept you. Also adds autopause when jumping or while a course is laid!</desc>
+<name>Hostile Intercept (and Autopause!)</name>
+<gameVersion z="247">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="248">
+<major>1</major>
+<minor>6</minor>
+<patch>0</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>SafariJohn</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Hostile Intercept</path>
+<dirName>Hostile Intercept</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>hostileIntercept.ModPlugin</modPluginClassName>
+<fullOverrides z="249"></fullOverrides>
+<jars z="250">
+<st>jars/HostileIntercept.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="251">
+<ModDependency z="252">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="253">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="254">
+<spec z="255">
+<id>IndEvo</id>
+<desc>Expands the available campaign content through addition of buildings, interactions, abilities, events, terrain and exploration content.</desc>
+<name>Industrial.Evolution</name>
+<gameVersion z="256">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="257">
+<major>4</major>
+<minor>1</minor>
+<patch>b</patch>
+<string>4.1.b</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>SirHartley</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Industrial.Evolution4.1.b</path>
+<dirName>Industrial.Evolution4.1.b</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>indevo.utils.ModPlugin</modPluginClassName>
+<fullOverrides z="258"></fullOverrides>
+<jars z="259">
+<st>jars/IndEvo.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="260">
+<ModDependency z="261">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="262">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="263">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="264">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="265">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="266">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="267">
+<id>shaderLib</id>
+<name>GraphicsLib</name>
+<version z="268">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="269">
+<spec z="270">
+<id>kaleidoscope</id>
+<desc>Adds visual variety to the planets of the sector.</desc>
+<name>Kaleidoscope</name>
+<gameVersion z="271">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="272">
+<major>1</major>
+<minor>0</minor>
+<patch>e</patch>
+<string>1.0.e</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>SirHartley &amp; Pixel Rice Bowl</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Kaleidoscope1.0.e</path>
+<dirName>Kaleidoscope1.0.e</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>kaleidoscope.plugins.ModPlugin</modPluginClassName>
+<fullOverrides z="273"></fullOverrides>
+<jars z="274">
+<st>jars/kaleidoscope.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="275">
+<ModDependency z="276">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="277">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="278">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="279">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="280">
+<spec z="281">
+<id>kazeron</id>
+<desc>Adds new skins for the Persean League.</desc>
+<name>Kazeron Navarchy</name>
+<gameVersion z="282">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="283">
+<major>1</major>
+<minor>7</minor>
+<patch>1</patch>
+<string>1.7.1</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>PeachPatrol, RaMK5/Bangle</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Kazeron.Navarchy</path>
+<dirName>Kazeron.Navarchy</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="284"></fullOverrides>
+<jars z="285"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="286"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="287">
+<spec z="288">
+<id>knights_of_ludd</id>
+<desc>Adds the Knights of Ludd faction and content!</desc>
+<name>Knights of Ludd</name>
+<gameVersion z="289">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="290">
+<major>1</major>
+<minor>4</minor>
+<patch>0</patch>
+<string>1.4.0</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Selkie, Dal, Starficz</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Knights of Ludd</path>
+<dirName>Knights of Ludd</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>org.selkie.kol.plugins.KOL_ModPlugin</modPluginClassName>
+<fullOverrides z="291"></fullOverrides>
+<jars z="292">
+<st>jars/KnightsOfSelkie.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="293">
+<ModDependency z="294">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="295">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="296">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="297">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="298">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="299">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="300">
+<id>shaderLib</id>
+<name>GraphicsLib</name>
+<version z="301">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="302">
+<spec z="303">
+<id>largerZoomOut</id>
+<desc>This simple mod increases the maximum camera range you can zoom out on the battle and campaign screens.</desc>
+<name>Larger Zoom Out</name>
+<gameVersion z="304">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="305">
+<major>1</major>
+<minor>1</minor>
+<patch>1</patch>
+<string>1.1.1</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Moya621</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Larger Zoom Out</path>
+<dirName>Larger Zoom Out</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="306"></fullOverrides>
+<jars z="307"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="308"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="309">
+<spec z="310">
+<id>lw_lazylib</id>
+<desc>A collection of classes to aid modding. Not a mod in itself, but required by certain other mods.</desc>
+<name>LazyLib</name>
+<gameVersion z="311">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="312">
+<major>3</major>
+<minor>0</minor>
+<patch>0</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>LazyWizard</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\LazyLib</path>
+<dirName>LazyLib</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>org.lazywizard.lazylib.LazyLib</modPluginClassName>
+<fullOverrides z="313"></fullOverrides>
+<jars z="314">
+<st>jars/LazyLib.jar</st>
+<st>jars/LazyLib-Kotlin.jar</st>
+<st>jars/internal/LazyLib-Console.jar</st>
+<st>jars/internal/Kotlin-Runtime.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="315"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="316">
+<spec z="317">
+<id>leadingPip</id>
+<desc>Adds a target leading pip.</desc>
+<name>Leading Pip</name>
+<gameVersion z="318">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="319">
+<major>1</major>
+<minor>10</minor>
+<patch>2</patch>
+<string>1.10.2</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>DarkRevenant</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Leading Pip</path>
+<dirName>Leading Pip</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>data.scripts.TLIModPlugin</modPluginClassName>
+<fullOverrides z="320"></fullOverrides>
+<jars z="321">
+<st>jars/LeadingPip.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="322">
+<ModDependency z="323">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="324">
+<major>3</major>
+<minor>0</minor>
+<patch>0</patch>
+<string>3.0.0</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="325">
+<spec z="326">
+<id>logNot</id>
+<desc>Provides supply readout in human-friendly form.</desc>
+<name>Logistics Notifications</name>
+<gameVersion z="327">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="328">
+<major>1</major>
+<minor>6</minor>
+<patch>1</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>SafariJohn</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Log Not</path>
+<dirName>Log Not</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>logNot.ModPlugin</modPluginClassName>
+<fullOverrides z="329"></fullOverrides>
+<jars z="330">
+<st>jars/LogNot.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="331">
+<ModDependency z="332">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="333">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="334">
+<spec z="335">
+<id>luddenhance</id>
+<desc>A small mod to enhance the Luddic Church, with new ship skins and a new star system.</desc>
+<name>Luddic Enhancement</name>
+<gameVersion z="336">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="337">
+<major>1</major>
+<minor>2</minor>
+<patch>7b</patch>
+<string>1.2.7b</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>King Alfonzo</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Luddic_Enhancement</path>
+<dirName>Luddic_Enhancement</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.luddicenhance_modPlugin</modPluginClassName>
+<fullOverrides z="338"></fullOverrides>
+<jars z="339">
+<st>jars/Luddic_Enhancement.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="340">
+<ModDependency z="341">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="342">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="343">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="344">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="345">
+<spec z="346">
+<id>lunalib</id>
+<desc>Library including utilities for players and mod developers.</desc>
+<name>LunaLib</name>
+<gameVersion z="347">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="348">
+<major>2</major>
+<minor>0</minor>
+<patch>5</patch>
+<string>2.0.5</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Lukas04</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\LunaLib</path>
+<dirName>LunaLib</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>lunalib.LunaLibPlugin</modPluginClassName>
+<fullOverrides z="349"></fullOverrides>
+<jars z="350">
+<st>jars/LunaLib.jar</st>
+<st>jars/libs/fuzzywuzzy-1.3.0.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="351">
+<ModDependency z="352">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="353">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="354">
+<spec z="355">
+<id>exshippack</id>
+<desc>Adds the minor faction Machina Void Shipyards.</desc>
+<name>Machina Void Shipyards</name>
+<gameVersion z="356">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="357">
+<major>0.71_dev</major>
+<minor></minor>
+<patch></patch>
+<string>0.71_dev</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Unit9461</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\EXPSP_Release</path>
+<dirName>EXPSP_Release</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.EXPSP_ModPlugin</modPluginClassName>
+<fullOverrides z="358"></fullOverrides>
+<jars z="359">
+<st>jars/EXPSP.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="360">
+<ModDependency z="361">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="362">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="363">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="364">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="365">
+<spec z="366">
+<id>MagicLib</id>
+<desc>A collection of classes to aid modding. Not a mod in itself, but required by other mods.</desc>
+<name>MagicLib</name>
+<gameVersion z="367">
+<major>0.98</major>
+<minor>7</minor>
+<patch></patch>
+<string>0.98a-RC7</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="368">
+<major>1</major>
+<minor>5</minor>
+<patch>6</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Modding Community: Dark.Revenant, LazyWizard, Nicke, Originem, Rubi, Schaf-Unschaf, Snrasha, Tartiflette, Wisp, Wyvern...</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\MagicLib</path>
+<dirName>MagicLib</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>org.magiclib.Magic_modPlugin</modPluginClassName>
+<fullOverrides z="369"></fullOverrides>
+<jars z="370">
+<st>jars/MagicLib.jar</st>
+<st>jars/MagicLib-Kotlin.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="371">
+<ModDependency z="372">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="373">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="374">
+<spec z="375">
+<id>missinghegemonyauxiliaryships</id>
+<desc>Adds auxiliary ships to the hegemony.</desc>
+<name>Missing Auxiliary Ships</name>
+<gameVersion z="376">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="377">
+<major>2</major>
+<minor>0</minor>
+<patch>7</patch>
+<string>2.0.7a</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire, Original MSM author Scarface</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing heg auxiliary</path>
+<dirName>Missing heg auxiliary</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="378"></fullOverrides>
+<jars z="379"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="380"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="381">
+<spec z="382">
+<id>missing_defense_drones</id>
+<desc>Adds 2 drones.</desc>
+<name>Missing Defense Drones</name>
+<gameVersion z="383">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="384">
+<major>1</major>
+<minor>0</minor>
+<patch>1</patch>
+<string>1.0.1</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire, Original MsDr Author Jamed Pake Dasi</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing defense drones</path>
+<dirName>Missing defense drones</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="385"></fullOverrides>
+<jars z="386">
+<st>jars/missing_defense_drones.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="387"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="388">
+<spec z="389">
+<id>missingshipsdeprecated</id>
+<desc>Re-adds deprecated ships of various factions</desc>
+<name>Missing Deprecated Ships</name>
+<gameVersion z="390">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="391">
+<major>2</major>
+<minor>0</minor>
+<patch>8</patch>
+<string>2.0.8a</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire, Original MSM author Scarface</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing deprecated</path>
+<dirName>Missing deprecated</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="392"></fullOverrides>
+<jars z="393"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="394"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="395">
+<spec z="396">
+<id>missingfeatures</id>
+<desc>Miscellaneous features</desc>
+<name>Missing Features</name>
+<gameVersion z="397">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="398">
+<major>0.0</major>
+<minor>2</minor>
+<patch></patch>
+<string>0.0.2</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing features</path>
+<dirName>Missing features</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="399"></fullOverrides>
+<jars z="400">
+<st>jars/missp_features.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="401"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="402">
+<spec z="403">
+<id>missingshipscivilian</id>
+<desc>Adds ships, mostly used by Independent faction</desc>
+<name>Missing Indies Ships</name>
+<gameVersion z="404">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="405">
+<major>2</major>
+<minor>0</minor>
+<patch>8</patch>
+<string>2.0.8</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire, Original author Scarface</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing indies</path>
+<dirName>Missing indies</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="406"></fullOverrides>
+<jars z="407"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="408"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="409">
+<spec z="410">
+<id>missingmidlineships</id>
+<desc>Adds midline ships the the rooster.</desc>
+<name>Missing Midline Ships</name>
+<gameVersion z="411">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="412">
+<major>2</major>
+<minor>0</minor>
+<patch>8c</patch>
+<string>2.0.8c</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire, Original MSM author Scarface</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing midline</path>
+<dirName>Missing midline</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="413"></fullOverrides>
+<jars z="414"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="415"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="416">
+<spec z="417">
+<id>missingpatherships</id>
+<desc>Adds pather ships, mostly used by Luddic Path faction</desc>
+<name>Missing Path Ships</name>
+<gameVersion z="418">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="419">
+<major>2</major>
+<minor>0</minor>
+<patch>8b</patch>
+<string>2.0.8b</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire, Original MSM author Scarface</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing pathers</path>
+<dirName>Missing pathers</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="420"></fullOverrides>
+<jars z="421"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="422"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="423">
+<spec z="424">
+<id>missingshipspirate</id>
+<desc>Adds pirate ships, mostly used by Pirate faction</desc>
+<name>Missing Pirate Ships</name>
+<gameVersion z="425">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="426">
+<major>2</major>
+<minor>0</minor>
+<patch>7b</patch>
+<string>2.0.7b</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire, Original MSM author Scarface</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing pirates</path>
+<dirName>Missing pirates</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="427"></fullOverrides>
+<jars z="428"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="429"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="430">
+<spec z="431">
+<id>missingsuperships</id>
+<desc>Adds super ships.</desc>
+<name>Missing Super Ships</name>
+<gameVersion z="432">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="433">
+<major>2</major>
+<minor>0</minor>
+<patch>9d</patch>
+<string>2.0.9d</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire, Original MSM author Scarface</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing supers</path>
+<dirName>Missing supers</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.missp_weapons_platforms_plugin</modPluginClassName>
+<fullOverrides z="434"></fullOverrides>
+<jars z="435">
+<st>jars/missp_weapons_platforms.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="436"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="437">
+<spec z="438">
+<id>missp_supers_addon</id>
+<desc>Addon for the Missing Supers</desc>
+<name>Missing Super Ships Addon</name>
+<gameVersion z="439">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="440">
+<major>0.0</major>
+<minor>0</minor>
+<patch></patch>
+<string>0.0.0</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing supers addon</path>
+<dirName>Missing supers addon</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="441"></fullOverrides>
+<jars z="442">
+<st>jars/missp_supers_addon.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="443">
+<ModDependency z="444">
+<id>missingsuperships</id>
+<name>Missing Super Ships</name>
+<version z="445">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="446">
+<spec z="447">
+<id>missingshipsweapons</id>
+<desc>Adds a variety of weapons and strike craft.</desc>
+<name>Missing Weapons</name>
+<gameVersion z="448">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="449">
+<major>2</major>
+<minor>0</minor>
+<patch>9e</patch>
+<string>2.0.9e</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>IceFire, Original MSM author Scarface</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Missing weapons</path>
+<dirName>Missing weapons</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="450"></fullOverrides>
+<jars z="451">
+<st>jars/missp_varunastra.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="452"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="453">
+<spec z="454">
+<id>MoreBarMissions</id>
+<desc>See more bar missions.</desc>
+<name>More Bar Missions</name>
+<gameVersion z="455">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="456">
+<major>0</major>
+<minor>0</minor>
+<patch>6</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>LngA7Gw</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\MoreBarMissions</path>
+<dirName>MoreBarMissions</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>mmm.MoreBarMissionsModPlugin</modPluginClassName>
+<fullOverrides z="457"></fullOverrides>
+<jars z="458">
+<st>jars/MoreBarMissions.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="459"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="460">
+<spec z="461">
+<id>MoreMilitaryMissions</id>
+<desc>Adds some bar missions and associates a mission with some distress calls.</desc>
+<name>More Military Missions</name>
+<gameVersion z="462">
+<major>0.98</major>
+<minor>7</minor>
+<patch></patch>
+<string>0.98a-RC7</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="463">
+<major>0</major>
+<minor>5</minor>
+<patch>0</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>LngA7Gw</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\MoreMilitaryMissions</path>
+<dirName>MoreMilitaryMissions</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>mmm.MoreMilitaryMissionsModPlugin</modPluginClassName>
+<fullOverrides z="464"></fullOverrides>
+<jars z="465">
+<st>jars/MoreMilitaryMissions.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="466">
+<ModDependency z="467">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="468">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="469">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="470">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="471">
+<spec z="472">
+<id>nexerelin</id>
+<desc>Join a faction and conquer the Sector!</desc>
+<name>Nexerelin</name>
+<gameVersion z="473">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="474">
+<major>0</major>
+<minor>12</minor>
+<patch>1d</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Histidine (original by Zaphide)</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Nexerelin</path>
+<dirName>Nexerelin</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>exerelin.plugins.ExerelinModPlugin</modPluginClassName>
+<fullOverrides z="475"></fullOverrides>
+<jars z="476">
+<st>jars/ExerelinCore.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="477">
+<ModDependency z="478">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="479">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="480">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="481">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="482">
+<spec z="483">
+<id>JYDR</id>
+<desc>Refines resource commodities using heavy machinery forging them into custom manufactured commodities</desc>
+<name>Ore Refinery</name>
+<gameVersion z="484">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="485">
+<major>1</major>
+<minor>0</minor>
+<patch>0</patch>
+<string>1.0.0</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Dazs</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Ore Refinery 1.0</path>
+<dirName>Ore Refinery 1.0</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.plugins.JYDRPlugin</modPluginClassName>
+<fullOverrides z="486"></fullOverrides>
+<jars z="487"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="488"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="489">
+<spec z="490">
+<id>particleengine</id>
+<desc>Library used for generation of stateless, instanced particles. Requires OpenGL 4.3 + compatibility profile support.</desc>
+<name>Particle Engine</name>
+<gameVersion z="491">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="492">
+<major>0</major>
+<minor>10</minor>
+<patch>1</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>qcwxezda</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Particle Engine</path>
+<dirName>Particle Engine</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>particleengine.ParticleEngineModPlugin</modPluginClassName>
+<fullOverrides z="493"></fullOverrides>
+<jars z="494">
+<st>jars/ParticleEngine.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="495"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="496">
+<spec z="497">
+<id>pfe</id>
+<desc>Custom new portraits for every vanilla faction and player</desc>
+<name>Portrait Faction Expanded</name>
+<gameVersion z="498">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="499">
+<major>1</major>
+<minor>0</minor>
+<patch>1</patch>
+<string>1.0.1</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Alexey Skywalker</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Portrait_Faction_Expanded</path>
+<dirName>Portrait_Faction_Expanded</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="500"></fullOverrides>
+<jars z="501"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="502"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="503">
+<spec z="504">
+<id>progressiveSMods</id>
+<desc>Ships gain XP during combat that can be spent to build in hull mods. Disables building in hull mods using story points.</desc>
+<name>Progressive S-Mods</name>
+<gameVersion z="505">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="506">
+<major>1</major>
+<minor>2</minor>
+<patch>0</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>qcwxezda, chdcl</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Progressive S-Mods</path>
+<dirName>Progressive S-Mods</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>progsmod.plugin.ProgSMod</modPluginClassName>
+<fullOverrides z="507"></fullOverrides>
+<jars z="508">
+<st>jars/Progressive S-Mods.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="509"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="510">
+<spec z="511">
+<id>pt_qolpack</id>
+<desc>Adds Quality of Life</desc>
+<name>QoL Pack</name>
+<gameVersion z="512">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="513">
+<major>1</major>
+<minor>4</minor>
+<patch></patch>
+<string>1.4</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>PureTilt</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\QoLPack</path>
+<dirName>QoLPack</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.plugins.qolp_modPlugin</modPluginClassName>
+<fullOverrides z="514"></fullOverrides>
+<jars z="515">
+<st>jars/QoLPack.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="516">
+<ModDependency z="517">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="518">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="519">
+<spec z="520">
+<id>RetroLib</id>
+<desc>Framework for converting/retrofitting ships.</desc>
+<name>RetroLib</name>
+<gameVersion z="521">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="522">
+<major>1</major>
+<minor>1</minor>
+<patch>1</patch>
+<string>1.1.1</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>SafariJohn</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\RetroLib</path>
+<dirName>RetroLib</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>retroLib.ModPlugin</modPluginClassName>
+<fullOverrides z="523"></fullOverrides>
+<jars z="524">
+<st>jars/RetroLib.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="525">
+<ModDependency z="526">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="527">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="528">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="529">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="530">
+<spec z="531">
+<id>roider</id>
+<desc>Adds the Roider Union, an alliance of independent asteroid miners and minor corporations.</desc>
+<name>Roider Union</name>
+<gameVersion z="532">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="533">
+<major>2</major>
+<minor>2</minor>
+<patch>8</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>SafariJohn</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Roider Union</path>
+<dirName>Roider Union</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>roiderUnion.ModPlugin</modPluginClassName>
+<fullOverrides z="534"></fullOverrides>
+<jars z="535">
+<st>jars/RoiderUnion.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="536">
+<ModDependency z="537">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="538">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="539">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="540">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="541">
+<id>RetroLib</id>
+<name>RetroLib</name>
+<version z="542">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="543">
+<spec z="544">
+<id>sun_ruthless_sector</id>
+<desc>Offers various mechanics and settings that encourage high-risk, high-reward gameplay.</desc>
+<name>Ruthless Sector</name>
+<gameVersion z="545">
+<major>0.98</major>
+<minor>7</minor>
+<patch></patch>
+<string>0.98a-RC7</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="546">
+<major>1</major>
+<minor>7</minor>
+<patch>0</patch>
+<string>1.7.0</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Sundog</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Ruthless Sector</path>
+<dirName>Ruthless Sector</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>ruthless_sector.ModPlugin</modPluginClassName>
+<fullOverrides z="547"></fullOverrides>
+<jars z="548">
+<st>jars/RuthlessSector.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="549"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="550">
+<spec z="551">
+<id>salshiexp</id>
+<desc>Additional Salvage Ships, Drones, Hullmods and Industries</desc>
+<name>Salvage Ship Expansion</name>
+<gameVersion z="552">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="553">
+<major>0.4</major>
+<minor>6</minor>
+<patch></patch>
+<string>0.4.6</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Gopsky</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Salvage Ship Expansion 0.4.6</path>
+<dirName>Salvage Ship Expansion 0.4.6</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="554"></fullOverrides>
+<jars z="555">
+<st>jars/SSE.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="556"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="557">
+<spec z="558">
+<id>scan_those_gates</id>
+<desc>Adds abilities to scan gates and reveal megastructure locations.</desc>
+<name>Scan Those Gates</name>
+<gameVersion z="559">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="560">
+<major>1</major>
+<minor>5</minor>
+<patch>8</patch>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>AERO</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\ScanThoseGates</path>
+<dirName>ScanThoseGates</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>org.aero.scanThoseGates.ModPlugin</modPluginClassName>
+<fullOverrides z="561"></fullOverrides>
+<jars z="562">
+<st>jars/ScanThoseGates.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="563"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="564">
+<spec z="565">
+<id>speedUp</id>
+<desc>Adds a key binding to speed the game up. Hold the middle mouse button or press the caps lock key. Controls are fully customizable.</desc>
+<name>SpeedUp</name>
+<gameVersion z="566">
+<major>0.98</major>
+<minor>7</minor>
+<patch></patch>
+<string>0.98a-RC7</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="567">
+<major>1</major>
+<minor>2</minor>
+<patch>2</patch>
+<string>1.2.2</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>DarkRevenant</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\SpeedUp</path>
+<dirName>SpeedUp</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>org.dark.speedup.SUModPlugin</modPluginClassName>
+<fullOverrides z="568"></fullOverrides>
+<jars z="569">
+<st>jars/SpeedUp.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="570"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="571">
+<spec z="572">
+<id>sun_starship_legends</id>
+<desc>Gives your ships and their crew personality as their reputations grow, granting traits that influence the ship's performance.</desc>
+<name>Starship Legends</name>
+<gameVersion z="573">
+<major>0.98</major>
+<minor>7</minor>
+<patch></patch>
+<string>0.98a-RC7</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="574">
+<major>2</major>
+<minor>6</minor>
+<patch>0</patch>
+<string>2.6.0</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Sundog</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Starship Legends</path>
+<dirName>Starship Legends</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>starship_legends.ModPlugin</modPluginClassName>
+<fullOverrides z="575"></fullOverrides>
+<jars z="576">
+<st>jars/StarshipLegends.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="577"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="578">
+<spec z="579">
+<id>stelnet</id>
+<desc>A collection of intel boards for Starsector</desc>
+<name>Stellar Networks</name>
+<gameVersion z="580">
+<major>0.98</major>
+<minor>7</minor>
+<patch></patch>
+<string>0.98a-RC7</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="581">
+<major>3</major>
+<minor>3</minor>
+<patch>0</patch>
+<string>3.3.0</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Jaghaimo</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\stelnet</path>
+<dirName>stelnet</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>stelnet.StelnetMod</modPluginClassName>
+<fullOverrides z="582"></fullOverrides>
+<jars z="583">
+<st>stelnet.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="584">
+<ModDependency z="585">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="586">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="587">
+<spec z="588">
+<id>System_Marker</id>
+<desc>Adds several grafical information markers around the cursor. </desc>
+<name>System Marker</name>
+<gameVersion z="589">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="590">
+<major>0.1</major>
+<minor>9-RC1</minor>
+<patch></patch>
+<string>0.1.9-RC1</string>
+<minorIsRC>true</minorIsRC>
+</versionInfo>
+<author>saya39</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\System_Marker</path>
+<dirName>System_Marker</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<fullOverrides z="591"></fullOverrides>
+<jars z="592">
+<st>jars/System_Marker.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="593">
+<ModDependency z="594">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="595">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="596">
+<spec z="597">
+<id>thorough_system_scan</id>
+<desc>Expend volatiles, combat readiness and time to scan whole system(excluding certain special objects).</desc>
+<name>Thorough System Scan</name>
+<gameVersion z="598">
+<major>0.98</major>
+<minor></minor>
+<patch></patch>
+<string>0.98a</string>
+<minorIsRC>false</minorIsRC>
+</gameVersion>
+<versionInfo z="599">
+<major>1.2</major>
+<minor>3</minor>
+<patch>1</patch>
+<string>1.2.3.1</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Nitori_Tachyon</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Thorough-System-Scan-EN</path>
+<dirName>Thorough-System-Scan-EN</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.ThoroughSystemScanPlugin</modPluginClassName>
+<fullOverrides z="600"></fullOverrides>
+<jars z="601">
+<st>jars/ThoroughSystemScan.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="602">
+<ModDependency z="603">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="604">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="605">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="606">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="607">
+<spec z="608">
+<id>US</id>
+<desc>Enhance your journey into the unknown with a vastly expanded variety of planets and environments.</desc>
+<name>Unknown Skies</name>
+<gameVersion z="609">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="610">
+<major>3</major>
+<minor>0</minor>
+<patch>3</patch>
+<string>3.0.3</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Tartiflette, updated by JamesTripleQ</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Unknown Skies</path>
+<dirName>Unknown Skies</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.US_modPlugin</modPluginClassName>
+<fullOverrides z="611"></fullOverrides>
+<jars z="612">
+<st>jars/US.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="613">
+<ModDependency z="614">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="615">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="616">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="617">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="618">
+<spec z="619">
+<id>unthemedweapons</id>
+<desc>Adds various weapons to the game. Adds fortified caches. Adds secrets.
+
+Note: soft dependency on Particle Engine. Will run without, but some visual effects will be missing.</desc>
+<name>Unthemed Weapons Collection</name>
+<gameVersion z="620">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="621">
+<major>0.7</major>
+<minor>4</minor>
+<patch></patch>
+<string>0.7.4</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>qcwxezda</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Unthemed Weapons Collection</path>
+<dirName>Unthemed Weapons Collection</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>unthemedweapons.ModPlugin</modPluginClassName>
+<fullOverrides z="622"></fullOverrides>
+<jars z="623">
+<st>jars/UnthemedWeaponsCollection.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="624"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="625">
+<spec z="626">
+<id>niko_morePlanetaryConditions</id>
+<desc>Adds a variety of planetary conditions to the sector, as well as a smattering of mysteries and awe-inspiring vistas.</desc>
+<name>What we left behind</name>
+<gameVersion z="627">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="628">
+<major>4</major>
+<minor>4</minor>
+<patch>1</patch>
+<string>4.4.1</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Niko, Khepht (Spriter)</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\What We Left Behind</path>
+<dirName>What We Left Behind</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.niko_MPC_modPlugin</modPluginClassName>
+<fullOverrides z="629"></fullOverrides>
+<jars z="630">
+<st>jars/niko_morePlanetaryConditions.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="631">
+<ModDependency z="632">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="633">
+<major>3</major>
+<minor>0</minor>
+<patch>0</patch>
+<string>3.0.0</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="634">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="635">
+<major>2</major>
+<minor>0</minor>
+<patch>0</patch>
+<string>2.0.0</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="636">
+<id>MagicLib</id>
+<name>MagicLib</name>
+<version z="637">
+<major>1</major>
+<minor>4</minor>
+<patch>6</patch>
+<string>1.4.6</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="638">
+<spec z="639">
+<id>WideHorizons</id>
+<desc>Expands the vanilla universe and recreates it according to Starsector Lore.</desc>
+<name>Wide Horizons</name>
+<gameVersion z="640">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="641">
+<major>1</major>
+<minor>3</minor>
+<patch>0g</patch>
+<string>1.3.0g</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Taiwendo</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Wide Horizons v1.3.0g</path>
+<dirName>Wide Horizons v1.3.0g</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>org.widehorizons.WideHorizonsModPlugin</modPluginClassName>
+<fullOverrides z="642"></fullOverrides>
+<jars z="643">
+<st>jars/WideHorizons.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="644">
+<ModDependency z="645">
+<id>lunalib</id>
+<name>LunaLib</name>
+<version z="646">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="647">
+<id>shaderLib</id>
+<name>GraphicsLib</name>
+<version z="648">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+<ModDependency z="649">
+<id>particleengine</id>
+<name>Particle Engine</name>
+<version z="650">
+<major></major>
+<minor></minor>
+<patch></patch>
+<string></string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="651">
+<spec z="652">
+<id>audio_plus</id>
+<desc>Improves the music variety of the game. Improves certain vanilla sounds. Features work by Cycerin, Psiyon, and more.</desc>
+<name>ZZ Audio Plus</name>
+<gameVersion z="653">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="654">
+<major>1</major>
+<minor>2</minor>
+<patch>3</patch>
+<string>1.2.3</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>DarkRevenant</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\Audio Plus</path>
+<dirName>Audio Plus</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<fullOverrides z="655"></fullOverrides>
+<jars z="656"></jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="657"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="658">
+<spec z="659">
+<id>aaamarketRetrofits</id>
+<desc>libary for changeing stats of markets</desc>
+<name>market retrofits</name>
+<gameVersion z="660">
+<major>0.98</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.98a-RC5</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="661">
+<major>0.2</major>
+<minor>5</minor>
+<patch></patch>
+<string>0.2.5</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>Alricdragon</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\MarketRetrofits-master</path>
+<dirName>MarketRetrofits-master</dirName>
+<totalConversion>false</totalConversion>
+<utility>false</utility>
+<modPluginClassName>data.scripts.marketReplacer_startup</modPluginClassName>
+<fullOverrides z="662"></fullOverrides>
+<jars z="663">
+<st>jars/marketRetrofit.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="664"></dependencies>
+</spec>
+</EnabledModData>
+<EnabledModData z="665">
+<spec z="666">
+<id>shaderLib</id>
+<desc>An arcane tome of black magic and sorcery.</desc>
+<name>zz GraphicsLib</name>
+<gameVersion z="667">
+<major>0.98</major>
+<minor>8</minor>
+<patch></patch>
+<string>0.98a-RC8</string>
+<minorIsRC>true</minorIsRC>
+</gameVersion>
+<versionInfo z="668">
+<major>1</major>
+<minor>12</minor>
+<patch>1</patch>
+<string>1.12.1</string>
+<minorIsRC>false</minorIsRC>
+</versionInfo>
+<author>DarkRevenant</author>
+<path>C:\Projects\StarSector\starsector-core\..\mods\GraphicsLib</path>
+<dirName>GraphicsLib</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>org.dark.shaders.ShaderModPlugin</modPluginClassName>
+<fullOverrides z="669"></fullOverrides>
+<jars z="670">
+<st>jars/Graphics.jar</st>
+</jars>
+<requiredMemoryMB>0</requiredMemoryMB>
+<dependencies z="671">
+<ModDependency z="672">
+<id>lw_lazylib</id>
+<name>LazyLib</name>
+<version z="673">
+<major>3</major>
+<minor>0</minor>
+<patch>0</patch>
+<string>3.0.0</string>
+<minorIsRC>false</minorIsRC>
+</version>
+</ModDependency>
+</dependencies>
+</spec>
+</EnabledModData>
+</allModsEverEnabled>
+<enabledMods z="674">
+<EnabledModData z="675">
+<spec ref="6"></spec>
+</EnabledModData>
+<EnabledModData z="676">
+<spec ref="13"></spec>
+</EnabledModData>
+<EnabledModData z="677">
+<spec ref="24"></spec>
+</EnabledModData>
+<EnabledModData z="678">
+<spec ref="35"></spec>
+</EnabledModData>
+<EnabledModData z="679">
+<spec ref="44"></spec>
+</EnabledModData>
+<EnabledModData z="680">
+<spec ref="53"></spec>
+</EnabledModData>
+<EnabledModData z="681">
+<spec ref="66"></spec>
+</EnabledModData>
+<EnabledModData z="682">
+<spec ref="79"></spec>
+</EnabledModData>
+<EnabledModData z="683">
+<spec ref="88"></spec>
+</EnabledModData>
+<EnabledModData z="684">
+<spec ref="99"></spec>
+</EnabledModData>
+<EnabledModData z="685">
+<spec ref="108"></spec>
+</EnabledModData>
+<EnabledModData z="686">
+<spec ref="121"></spec>
+</EnabledModData>
+<EnabledModData z="687">
+<spec ref="128"></spec>
+</EnabledModData>
+<EnabledModData z="688">
+<spec ref="139"></spec>
+</EnabledModData>
+<EnabledModData z="689">
+<spec ref="146"></spec>
+</EnabledModData>
+<EnabledModData z="690">
+<spec ref="153"></spec>
+</EnabledModData>
+<EnabledModData z="691">
+<spec ref="160"></spec>
+</EnabledModData>
+<EnabledModData z="692">
+<spec ref="167"></spec>
+</EnabledModData>
+<EnabledModData z="693">
+<spec ref="174"></spec>
+</EnabledModData>
+<EnabledModData z="694">
+<spec ref="181"></spec>
+</EnabledModData>
+<EnabledModData z="695">
+<spec ref="188"></spec>
+</EnabledModData>
+<EnabledModData z="696">
+<spec ref="195"></spec>
+</EnabledModData>
+<EnabledModData z="697">
+<spec ref="202"></spec>
+</EnabledModData>
+<EnabledModData z="698">
+<spec ref="213"></spec>
+</EnabledModData>
+<EnabledModData z="699">
+<spec ref="224"></spec>
+</EnabledModData>
+<EnabledModData z="700">
+<spec ref="235"></spec>
+</EnabledModData>
+<EnabledModData z="701">
+<spec ref="246"></spec>
+</EnabledModData>
+<EnabledModData z="702">
+<spec ref="255"></spec>
+</EnabledModData>
+<EnabledModData z="703">
+<spec ref="270"></spec>
+</EnabledModData>
+<EnabledModData z="704">
+<spec ref="281"></spec>
+</EnabledModData>
+<EnabledModData z="705">
+<spec ref="288"></spec>
+</EnabledModData>
+<EnabledModData z="706">
+<spec ref="303"></spec>
+</EnabledModData>
+<EnabledModData z="707">
+<spec ref="310"></spec>
+</EnabledModData>
+<EnabledModData z="708">
+<spec ref="317"></spec>
+</EnabledModData>
+<EnabledModData z="709">
+<spec ref="326"></spec>
+</EnabledModData>
+<EnabledModData z="710">
+<spec ref="335"></spec>
+</EnabledModData>
+<EnabledModData z="711">
+<spec ref="346"></spec>
+</EnabledModData>
+<EnabledModData z="712">
+<spec ref="355"></spec>
+</EnabledModData>
+<EnabledModData z="713">
+<spec ref="366"></spec>
+</EnabledModData>
+<EnabledModData z="714">
+<spec ref="375"></spec>
+</EnabledModData>
+<EnabledModData z="715">
+<spec ref="382"></spec>
+</EnabledModData>
+<EnabledModData z="716">
+<spec ref="389"></spec>
+</EnabledModData>
+<EnabledModData z="717">
+<spec ref="396"></spec>
+</EnabledModData>
+<EnabledModData z="718">
+<spec ref="403"></spec>
+</EnabledModData>
+<EnabledModData z="719">
+<spec ref="410"></spec>
+</EnabledModData>
+<EnabledModData z="720">
+<spec ref="417"></spec>
+</EnabledModData>
+<EnabledModData z="721">
+<spec ref="424"></spec>
+</EnabledModData>
+<EnabledModData z="722">
+<spec ref="431"></spec>
+</EnabledModData>
+<EnabledModData z="723">
+<spec ref="438"></spec>
+</EnabledModData>
+<EnabledModData z="724">
+<spec ref="447"></spec>
+</EnabledModData>
+<EnabledModData z="725">
+<spec ref="454"></spec>
+</EnabledModData>
+<EnabledModData z="726">
+<spec ref="461"></spec>
+</EnabledModData>
+<EnabledModData z="727">
+<spec ref="472"></spec>
+</EnabledModData>
+<EnabledModData z="728">
+<spec ref="483"></spec>
+</EnabledModData>
+<EnabledModData z="729">
+<spec ref="490"></spec>
+</EnabledModData>
+<EnabledModData z="730">
+<spec ref="497"></spec>
+</EnabledModData>
+<EnabledModData z="731">
+<spec ref="504"></spec>
+</EnabledModData>
+<EnabledModData z="732">
+<spec ref="511"></spec>
+</EnabledModData>
+<EnabledModData z="733">
+<spec ref="520"></spec>
+</EnabledModData>
+<EnabledModData z="734">
+<spec ref="531"></spec>
+</EnabledModData>
+<EnabledModData z="735">
+<spec ref="544"></spec>
+</EnabledModData>
+<EnabledModData z="736">
+<spec ref="551"></spec>
+</EnabledModData>
+<EnabledModData z="737">
+<spec ref="558"></spec>
+</EnabledModData>
+<EnabledModData z="738">
+<spec ref="565"></spec>
+</EnabledModData>
+<EnabledModData z="739">
+<spec ref="572"></spec>
+</EnabledModData>
+<EnabledModData z="740">
+<spec ref="579"></spec>
+</EnabledModData>
+<EnabledModData z="741">
+<spec ref="588"></spec>
+</EnabledModData>
+<EnabledModData z="742">
+<spec ref="597"></spec>
+</EnabledModData>
+<EnabledModData z="743">
+<spec ref="608"></spec>
+</EnabledModData>
+<EnabledModData z="744">
+<spec ref="619"></spec>
+</EnabledModData>
+<EnabledModData z="745">
+<spec ref="626"></spec>
+</EnabledModData>
+<EnabledModData z="746">
+<spec ref="639"></spec>
+</EnabledModData>
+<EnabledModData z="747">
+<spec ref="652"></spec>
+</EnabledModData>
+<EnabledModData z="748">
+<spec ref="659"></spec>
+</EnabledModData>
+<EnabledModData z="749">
+<spec ref="666"></spec>
+</EnabledModData>
+</enabledMods>
+<desc>Wide Started</desc>
+<locDesc>Galatia Star System</locDesc>
+<autosave>false</autosave>
+</SaveGameData>
