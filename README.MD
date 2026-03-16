@@ -1,7 +1,10 @@
 # StarSector GitHub repo (CC4 2026)
 
+## 03.17 New save Wide continued
+
 ## 03.16 Delete all old saves 
 - Reinit repo
+- New save Wide started
 
 # StarSector098a GitHub repo
 
