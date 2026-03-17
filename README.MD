@@ -1,6 +1,11 @@
 # StarSector GitHub repo (CC4 2026)
 
 ## 03.17 New save Wide continued
+- Update mods
+- Add Ship mods:
+  - Ship Mastery
+  - Ship/Weapon pack
+- Restore zz Audio mod
 
 ## 03.16 Delete all old saves 
 - Reinit repo
