@@ -13,7 +13,6 @@
         "fang": true,
         "hegemony": true,
         "independent": true,
-        "knights_of_selkie": true,
         "luddic_church": true,
         "luddic_path": true,
         "orks": true,
@@ -23,9 +22,6 @@
         "sindrian_diktat": true,
         "tritachyon": true
     },
-    "numPlanets": 49,
-    "numStations": 17,
-    "numSystems": 22,
     "respawnFactions": true,
     "selectedFactionForBackground": "player"
 }
