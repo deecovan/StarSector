@@ -6,7 +6,7 @@
 	##############################################################
 	
 	"vsync":false,
-	"fps":30,
+	"fps":40,
 	"devMode":false,
 	"godMode":false, # 100x damage dealt, no damage taken
 	"playtestingMode":false, # turns off some debug flags while in dev mode; doesn't do anything if not in dev mode.
@@ -43,9 +43,9 @@
 	"undecoratedWindow":false,
 	"alwaysUndecoratedAtFullscreen":true,
 	"enableSoundFilters":true,
-	# WXGA 16x10 1280x800
-	# "resolutionOverride":"1280x800",
-	# "refreshRateOverride":30,
+	# DD 16:10 1600x1000
+	# "resolutionOverride":"1600x1000",
+	# "refreshRateOverride":40,
 	# "forceAspectRatio":"1.6",
 	# "windowLocationX":0,
 	# "windowLocationY":0,
