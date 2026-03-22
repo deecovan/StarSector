@@ -7,6 +7,8 @@
   - Set XP and prise up to 1.5x
 - Restart DME
   - Started DME with Manticore 
+- Use 2 save slots: 
+  - named Continue non-default for checkpoint manual save
 
 ## 03.22 Update mods
 - Remove large and unknown mods, leave 40
