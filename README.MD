@@ -9,6 +9,7 @@
   - Started DME with Manticore 
 - Use 2 save slots: 
   - named Continue non-default for checkpoint manual save
+- Dont use weapon's extra OP: Improve shipmods
 
 ## 03.22 Update mods
 - Remove large and unknown mods, leave 40
