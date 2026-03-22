@@ -1,4 +1,9 @@
 {
+   "BypassProcessor": false,
+   "BypassTimer": false,
+   "Debugging": false,
+   "ListCheat": false,
+   "disableBlueprintCheck": false,
    "hostileIntercept_autopause": "Intercept Or Hostile",
    "hostileIntercept_autopauseAlarm": true,
    "hostileIntercept_autopauseCheat": true,

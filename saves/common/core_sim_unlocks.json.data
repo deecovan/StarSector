@@ -144,6 +144,8 @@
         "requiem_Standard",
         "buffalo2_hmi_mining",
         "missp_nebulamkii_Standard",
-        "nebula_Standard"
+        "nebula_Standard",
+        "swp_nautilus_sta",
+        "swp_hecate_str"
     ]
 }

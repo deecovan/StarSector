@@ -83,7 +83,7 @@
       "modId": "shipmasterysystem",
       "modName": "Ship Mastery System",
       "name": "Our Battle Was Legendary",
-      "progress": 24,
+      "progress": 185,
       "rarity": "Legendary",
       "script": "shipmastery.achievements.LotsOfMP",
       "spoilerLevel": "Visible",
@@ -480,21 +480,6 @@
       "tooltip": ""
    },
    {
-      "description": "Completed the main Exotech Questline. Unlocks the \"Personal Exoship\" Background.",
-      "id": "rat_beatExotechQuestline",
-      "image": "",
-      "maxProgress": 0,
-      "memory": {},
-      "modId": "assortment_of_things",
-      "modName": "Random Assortment of Things",
-      "name": "Interstellar",
-      "progress": 0,
-      "rarity": "Legendary",
-      "script": "assortment_of_things.achivements.RATBaseAchievement",
-      "spoilerLevel": "Spoiler",
-      "tooltip": ""
-   },
-   {
       "description": "Crafted a blank knowledge construct.",
       "id": "sms_SPFromConstructs",
       "image": "",
@@ -507,6 +492,21 @@
       "rarity": "Uncommon",
       "script": "shipmastery.achievements.BlankConstructMade",
       "spoilerLevel": "Visible",
+      "tooltip": ""
+   },
+   {
+      "description": "Completed the main Exotech Questline. Unlocks the \"Personal Exoship\" Background.",
+      "id": "rat_beatExotechQuestline",
+      "image": "",
+      "maxProgress": 0,
+      "memory": {},
+      "modId": "assortment_of_things",
+      "modName": "Random Assortment of Things",
+      "name": "Interstellar",
+      "progress": 0,
+      "rarity": "Legendary",
+      "script": "assortment_of_things.achivements.RATBaseAchievement",
+      "spoilerLevel": "Spoiler",
       "tooltip": ""
    },
    {

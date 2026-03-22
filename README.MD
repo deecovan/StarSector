@@ -1,5 +1,10 @@
 # StarSector GitHub repo (CC4 2026)
 
+## 03.22 Update mods
+- Remove large and unknown mods, leave 40
+- Add DME from sephira-conclave-master 8) Start new game
+- 8) Start new game
+
 ## 03.17 New save Wide continued
 - Update mods
 - Add Ship mods:
