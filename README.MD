@@ -1,6 +1,10 @@
 # StarSector GitHub repo (CC4 2026)
 
 ## 03.22 Update mods
+- Enable AI tweaks and Crew Replacer
+- Try WXGA+ 16:10 1440x900 @40fps
+
+## 03.22 Update mods
 - Remove large and unknown mods, leave 40
 - Add DME from sephira-conclave-master 8) Start new game
 - Limit FPS to 30
