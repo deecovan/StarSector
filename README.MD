@@ -6,7 +6,7 @@
 - Limit FPS to 30
   - starsector-core\data\config\settings.json vsync=false fps=true
   - also change settings to 1280x800 1.6 30
-- 8) Start new game
+- 8) Start new game WITHOUT Missing mods
   - DME started
 
 ## 03.17 New save Wide continued
