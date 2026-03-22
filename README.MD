@@ -6,6 +6,7 @@
 - Update mods settings 
   - Set XP and prise up to 1.5x
 - Restart DME
+  - Started DME with Manticore 
 
 ## 03.22 Update mods
 - Remove large and unknown mods, leave 40
