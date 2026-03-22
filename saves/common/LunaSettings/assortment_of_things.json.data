@@ -12,7 +12,7 @@
    "rat_forceDisableHelp": false,
    "rat_frontiersCostMult": 1,
    "rat_frontiersEnabled": true,
-   "rat_frontiersIncomeMult": 1,
+   "rat_frontiersIncomeMult": 1.25,
    "rat_minimapFuel": true,
    "rat_minimapShape": "Wide",
    "rat_minimapStarscape": false,

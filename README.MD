@@ -3,6 +3,8 @@
 ## 03.22 Update mods
 - Enable AI tweaks and Crew Replacer
 - @BAD! resolutionOverride vars Dont work (WXGA+ 16:10 1440x900 @40fps)
+- Update mods settings 
+  - Set XP and prise up to 1.5x
 
 ## 03.22 Update mods
 - Remove large and unknown mods, leave 40

@@ -19,7 +19,7 @@
    "enableMjolnirRipples": true,
    "enableNormal": false,
    "enableOverloadArcs": true,
-   "enablePostProcess": false,
+   "enablePostProcess": true,
    "enableShaders": false,
    "enableShieldRipples": true,
    "enableSunLight": false,

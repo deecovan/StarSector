@@ -40,9 +40,9 @@
    "rfi_minReload": 3,
    "rfi_offset": 5,
    "rfi_onlyPhase": false,
-   "rfi_scale": 1,
-   "rfi_scaleX": 1,
-   "rfi_scaleY": 1,
+   "rfi_scale": 2,
+   "rfi_scaleX": 2,
+   "rfi_scaleY": 2,
    "shipSide": 61,
    "snapIfTarget": 59,
    "systemNotifcustomColors": false

@@ -1,7 +1,7 @@
 {
    "sun_fr_gaugeBackgroundColor": "#000000",
    "sun_fr_gaugeBackgroundColorOpacity": 192,
-   "sun_fr_glowOpacity": 64,
+   "sun_fr_glowOpacity": 0,
    "sun_fr_hardFluxBarColor": "#bcfbff",
    "sun_fr_hardFluxBarColorOpacity": 255,
    "sun_fr_overrideDefaultUiColors": false,
@@ -9,10 +9,10 @@
    "sun_fr_reticleColorOpacity": 255,
    "sun_fr_showReticle": true,
    "sun_fr_showReticleWhenInterfaceIsHidden": false,
-   "sun_fr_sizeMult": 2,
+   "sun_fr_sizeMult": 1,
    "sun_fr_softFluxGaugeColor": "#13f0ff",
    "sun_fr_softFluxGaugeColorOpacity": 192,
    "sun_fr_toggleStrafeAndTurnToCursorKey": 44,
-   "sun_fr_warningColor": "#69b7ff",
+   "sun_fr_warningColor": "#000aaa",
    "sun_fr_warningColorOpacity": 255
 }
