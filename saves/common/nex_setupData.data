@@ -1,5 +1,5 @@
 {
-    "backgroundId": "sms_tinkerer",
+    "backgroundId": "rat_neural_shard",
     "factions": {
         "Bhilai": true,
         "Eridani": true,
@@ -8,6 +8,7 @@
         "MVS": true,
         "MaybeGoogle": true,
         "brighton": true,
+        "dassault_mikoyan": true,
         "dpl_phase_lab": true,
         "draco": true,
         "fang": true,

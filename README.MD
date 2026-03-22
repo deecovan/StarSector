@@ -3,7 +3,11 @@
 ## 03.22 Update mods
 - Remove large and unknown mods, leave 40
 - Add DME from sephira-conclave-master 8) Start new game
+- Limit FPS to 30
+  - starsector-core\data\config\settings.json vsync=false fps=true
+  - also change settings to 1280x800 1.6 30
 - 8) Start new game
+  - DME started
 
 ## 03.17 New save Wide continued
 - Update mods
