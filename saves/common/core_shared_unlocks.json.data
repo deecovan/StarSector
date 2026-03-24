@@ -12,6 +12,7 @@
         "luddic_majority",
         "niko_MPC_ftcDistricts",
         "niko_MPC_ultraMagneticField",
+        "rat_ancient_fuel_hub",
         "rat_ancient_megacities",
         "rat_defensive_drones",
         "volturnian_lobster_pens"
@@ -140,6 +141,7 @@
         "MPC_pinprickPod",
         "devouring_swarm",
         "roider_blastinglaser",
+        "roider_hazard_mrm",
         "roider_marksman"
     ]
 }
